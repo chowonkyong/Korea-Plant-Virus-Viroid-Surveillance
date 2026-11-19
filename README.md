@@ -1,6 +1,6 @@
 # National Meta-Analysis of Plant Viruses and Viroids in South Korea (1990–2026)
 
-This repository contains the complete dataset, curation scripts, and multi-panel visualization code supporting our study published in *Physiological and Molecular Plant Pathology*.
+This repository contains the complete dataset, curation scripts, and visualization code supporting our study in *Physiological and Molecular Plant Pathology*.
 
 ## 1. Overview & Data Retrieval Parameters
 To ensure full reproducibility and transparency, all surveillance records and associated metadata were harvested from the NCBI GenBank database.
